@@ -26,6 +26,7 @@ You can install the necessary dependencies using `pip`:
 ```sh
 pip install torch torchvision numpy scikit-learn pillow tqdm
 
+## Dataset
 
 human_activity_retrieval_dataset/
     ├── train/
@@ -43,6 +44,7 @@ human_activity_retrieval_dataset/
     ├── train_image_info.json
     └── test_image_info.json
 
+## Results
 
 mAP@1: 0.1234
 mAP@10: 0.5678
