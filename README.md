@@ -1,4 +1,4 @@
-# Human Activity Retrieval Using Siamese Network
+# Human Activity Retrieval 
 
 This project implements a Siamese Network for human activity retrieval from images. The model is trained to distinguish between different activities and retrieve similar activity images based on learned feature embeddings.
 
